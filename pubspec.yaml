@@ -22,11 +22,8 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.2
-  fluttertoast: ^4.0.1
-  date_format: ^1.0.8
-  image_picker: ^0.6.7+1
-  smooth_star_rating: ^1.1.1
+  cupertino_icons: ^0.1.2  
+  smooth_star_rating: ^1.1.1   #this is used for star rating in my app
 
 dev_dependencies:
   flutter_test:
